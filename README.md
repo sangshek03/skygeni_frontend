@@ -2,6 +2,8 @@
 
 A Next.js-based dashboard for visualizing various business metrics including account industry data, ACV range, customer type, and team performance.
 
+[Video] (https://drive.google.com/drive/folders/1h4fx7XMNMxt_iZopj5EMRBqFXFOZ0CfL?usp=sharing)
+
 ## Folder Structure
 
 ```bash
